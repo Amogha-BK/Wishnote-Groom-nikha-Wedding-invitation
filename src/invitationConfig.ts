@@ -58,7 +58,7 @@ export const invitationConfig = {
     travel: "",
     stay: "",
     contact: "",
-    musicUrl: "/assets/andalusian-passage.mp3",
+    musicUrl: "/assets/kudmayi.m4a",
     whatsappHostNumber: "",
   },
   celebrations: [
